@@ -7,7 +7,7 @@
          options.UseSqlServer(Configuration.GetConnectionString("Default"));
      });
     ```
-  * Database key Should be pluarals 
+  * Database key Should(**ConnectionStrings**) be pluarals 
     ```json 
     "ConnectionStrings":{ 
       "Default": "Data Source=(LocalDb)\\.\\devdb;Initial Catalog=CoWorksCommunity;Integrated Security=True"
