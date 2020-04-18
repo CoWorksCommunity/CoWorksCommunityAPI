@@ -10,6 +10,6 @@
   * Database key Should be pluarals 
     ```json 
     "ConnectionStrings":{ 
-    "Default": "Data Source=(LocalDb)\\.\\devdb;Initial Catalog=CoWorksCommunity;Integrated Security=True"
+      "Default": "Data Source=(LocalDb)\\.\\devdb;Initial Catalog=CoWorksCommunity;Integrated Security=True"
     }
     ```
